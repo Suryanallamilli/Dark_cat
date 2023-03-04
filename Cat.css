@@ -2,19 +2,17 @@
 
 .dark-background {
   background-color: #0b0b0b;
-  height: 130vh;
-  width: 100vw;
 }
 .bulb-image {
-  width: 15vh;
+  width: 150px;
 }
 .cat-image {
-  width: 45vh;
+  width: 300px;
 }
 .switch-board {
   background-color: #7b8794;
-  width: 20vh;
-  height: 10vh;
+  width: 294px;
+  height: 139px;
   border-radius: 12px;
   padding-left: 16px;
   padding-right: 16px;
@@ -25,7 +23,7 @@
 .switch-status {
   color: #ffffff;
   font-family: "Roboto";
-  font-size: 50px;
+  font-size: 24px;
   font-weight: 500;
   margin-bottom: 24px;
 }
@@ -33,10 +31,10 @@
   color: #ffffff;
   background-color: #cbd2d9;
   font-family: "Roboto";
-  font-size: 40px;
+  font-size: 24px;
   font-weight: bold;
-  width: 100px;
-  height: 80px;
+  width: 99px;
+  height: 44px;
   border-radius: 8px;
   margin-left: 16px;
 }
@@ -44,9 +42,9 @@
   color: #ffffff;
   background-color: #e12d39;
   font-family: "Roboto";
-  font-size: 40px;
+  font-size: 24px;
   font-weight: bold;
-  width: 100px;
-  height: 80px;
+  width: 99px;
+  height: 44px;
   border-radius: 8px;
 }
